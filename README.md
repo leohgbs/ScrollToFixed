@@ -1,11 +1,12 @@
 
 Custom for stop fixed when something happen
-
+```javascript
 $('xxx')..scrollToFixed
   stop: ->
     ...
   limit: ->
     ...
+```
 
 ==========================
 
