@@ -1,6 +1,12 @@
 
 Custom for stop fixed when something happen
 
+$('xxx')..scrollToFixed
+  stop: ->
+    ...
+  limit: ->
+    ...
+
 ==========================
 
 **Demo**: http://bigspotteddog.github.com/ScrollToFixed/
