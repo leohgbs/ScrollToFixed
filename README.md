@@ -1,3 +1,8 @@
+
+Custom for stop fixed when something happen
+
+==========================
+
 **Demo**: http://bigspotteddog.github.com/ScrollToFixed/
 
 *More [fiddle](http://jsfiddle.net/) demo links [below](#demos).*
